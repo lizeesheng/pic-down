@@ -1,0 +1,28 @@
+{
+  "java" : [
+    {
+      "version" : 8,
+      "type" : "jre",
+      "url" : "https://github.com/lizeesheng/pic-down/releases/download/javas20250916/OpenJDK8U-jre_x64_windows_hotspot_8u462b08.zip", 
+      "filename" : "OpenJDK8U-jre_x64_windows_hotspot_8u462b08.zip"
+    }
+    {
+      "version" : 11,
+      "type" : "jre",
+      "url" : "https://github.com/lizeesheng/pic-down/releases/download/javas20250916/OpenJDK11U-jre_x64_windows_hotspot_11.0.28_6.zip", 
+      "filename" : "OpenJDK11U-jre_x64_windows_hotspot_11.0.28_6.zip"
+    }
+    {
+      "version" : 17,
+      "type" : "jre",
+      "url" : "https://github.com/lizeesheng/pic-down/releases/download/javas20250916/OpenJDK17U-jre_x64_windows_hotspot_17.0.16_8.zip", 
+      "filename" : "OpenJDK17U-jre_x64_windows_hotspot_17.0.16_8.zip"
+    }
+    {
+      "version" : 21,
+      "type" : "jre",
+      "url" : "https://github.com/lizeesheng/pic-down/releases/download/javas20250916/OpenJDK21U-jre_x64_windows_hotspot_21.0.8_9.zip", 
+      "filename" : "OpenJDK21U-jre_x64_windows_hotspot_21.0.8_9.zip"
+    }
+  ]
+}
